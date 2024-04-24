@@ -1,0 +1,7 @@
+print("Addition - ", 10 + 3)
+print("Subtraction - ", 10 - 3)
+print("Multiplication - ", 10 * 3)
+print("Division Float - ", 10 / 3)
+print("Devision int - ", 10 // 3)
+print("Remainder - ", 10 % 3)
+print("Power - ", 10**3)

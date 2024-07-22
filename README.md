@@ -1,0 +1,91 @@
+# Learning Repository - Basic Python
+
+Welcome to my Learning Repository! This directory holds all my learning adventures throughout the coding world. From mastering various languages and frameworks to embarking on exciting projects, this repository captures my journey of continuous learning and growth.
+
+## About Me
+
+- **Author**: Rohit Agrawal
+- **Created**: 16/8/23 during my College days
+- **Languages**: Primarily focused on Python
+- **Forever Learner**: Learning is a journey that never ends, and this repository will stay alive to document my ongoing learning experiences.
+
+## Folders and Files
+
+- **Exercise**: Contains various exercises demonstrating different Python concepts.
+  - **arithmetic operator**: Examples related to arithmetic operations.
+    - `arithmetic_operator.py`
+    - `type_conversion.py`
+  - **classes**: Examples demonstrating the use of classes.
+    - `person_class.py`
+    - `point_class.py`
+  - **dictionaries**: Examples related to dictionary operations.
+    - `customer.py`
+    - `number_to_word.py`
+  - **exceptions**: Examples demonstrating exception handling.
+    - `try_except.py`
+  - **functions**: Examples demonstrating the use of functions.
+    - `fun_name.py`
+    - `fun_square.py`
+  - **if**: Examples demonstrating conditional statements.
+    - `if_else.py`
+    - `if_elseif_else.py`
+  - **lists**: Examples related to list operations.
+    - `1d_list_largest.py`
+    - `2d_list.py`
+    - `list_methods.py`
+  - **loops**: Examples demonstrating the use of loops.
+    - `for.py`
+    - `while.py`
+  - **string**: Examples related to string operations.
+    - `input.py`
+    - `string_format.py`
+- **csv_files**: Examples related to CSV file operations.
+  - `write_into_csv.py`
+- **multi_threading-and-multi_processing**: Examples demonstrating multi-threading and multi-processing.
+  - **arithmetic**: Examples related to arithmetic operations with multi-threading and multi-processing.
+    - `multi_processing.py`
+    - `multi_threading.py`
+    - `normal.py`
+    - `time_checker.py`
+  - **image_processing**: Examples related to image processing with multi-threading and multi-processing.
+    - `capture.py`
+    - `multi_process.py`
+    - `multi_thread.py`
+    - `single_thread.py`
+    - `time_checker.py`
+    - **images**: Contains images used in image processing examples.
+      - `image1.jpg`, `image2.jpg`, ... `image10.jpg`
+    - **output**: Contains output from image processing examples.
+  - **machine_learning**: Examples related to machine learning with multi-threading and multi-processing.
+    - `time_test.py`
+- **numpy**: Examples demonstrating the use of NumPy.
+  - `2d_table.py`
+  - `shape_of_table.py`
+- **pygames**: Examples related to game development using Pygame.
+  - **Resources**: Resources used in Pygame examples.
+    - **audio**: Contains audio files.
+      - `jump.mp3`, `music.wav`
+    - **font**: Contains font files.
+      - `Pixeltype.ttf`
+    - **graphics**: Contains graphic files.
+      - **Fly**: `Fly1.png`, `Fly2.png`
+      - **Player**: `jump.png`, `player_stand.png`, `player_walk_1.png`, `player_walk_2.png`
+      - **snail**: `snail1.png`, `snail2.png`
+      - `Sky.png`, `ground.png`
+  - **basic window**: Examples demonstrating the creation of a basic window.
+    - `window.py`
+  - `fps_clock.py`
+  - **surface**: Examples demonstrating the use of surfaces.
+    - `creating_surfaces.py`
+    - `import_images.py`
+    - **resources**: Contains resources used in surface examples.
+      - `Sky.png`, `ground.png`
+- **sys module**: Examples related to the sys module.
+  - `dir.py`
+  - `id.py`
+- **root directory**: Miscellaneous examples and files.
+  - `directory_structure.py`
+  - `directory_structure.txt`
+  - `hello.py`
+  - `number_guess_game.py`
+  - `word_guess_game.py`
